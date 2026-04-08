@@ -50,6 +50,6 @@ public class Modified_Knapsack {
         };
         int k = 10;
 
-        System.out.println(findmax(items, k)); // Expected output: 24
+        System.out.println(findmax(items, k));
     }
 }
